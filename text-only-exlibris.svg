@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50.000001 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="modernexlibris.svg"
+   inkscape:export-filename="modernexlibris.png"
+   inkscape:export-xdpi="520.19202"
+   inkscape:export-ydpi="520.19202"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="3.2649182"
+     inkscape:cx="3.981723"
+     inkscape:cy="106.89395"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="14.330853"
+       y="61.301545"
+       width="179.4563"
+       height="45.179636"
+       id="rect1610" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Inter;-inkscape-font-specification:Inter;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="1.9876555"
+       y="21.406767"
+       id="text1339"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5"
+         x="1.9876555"
+         y="21.406767"
+         id="tspan1547"
+         dx="0 0 0 0 0 0 0 0 0"
+         sodipodi:role="line"><tspan
+   dy="0"
+   id="tspan1606"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333px;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5">ex </tspan>librīs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Inter;-inkscape-font-specification:Inter;text-align:end;text-anchor:end;white-space:pre;inline-size:45.616;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       x="24.916792"
+       y="33.278172"
+       id="text1339-9"
+       transform="translate(23.296603,-2.6255134)"><tspan
+         x="24.916792"
+         y="33.278172"
+         id="tspan257"><tspan
+           style="font-style:italic;font-weight:600;-inkscape-font-specification:'Inter Semi-Bold'"
+           id="tspan255">ad īnfīnīta mystēria</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.5772676,5.2131949)"
+       id="text1608"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:center;white-space:pre;shape-inside:url(#rect1610);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.64567;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="16.717697"
+         y="83.512049"
+         id="tspan259">Sohal Sudheer</tspan></text>
+  </g>
+</svg>
